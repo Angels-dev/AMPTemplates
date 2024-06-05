@@ -9,7 +9,8 @@ Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
-Meta.EndpointURIFormat=
+Meta.EndpointURIFormat=maniaplanet://#join={0}@TMStadium@nadeo
+Meta.AppConfigId=0538df66-3dda-4285-a061-f62b08402e01
 App.AdminMethod=PinballWizard
 App.HasReadableConsole=true
 App.HasWritableConsole=false
@@ -44,7 +45,6 @@ App.SteamUpdateAnonymousLogin=True
 App.SteamForceLoginPrompt=False
 App.SupportsUniversalSleep=False
 App.WakeupMode=Any
-App.TemplateMatchRegex={{(\$?[\w]+)}}
 App.MonitorChildProcess=False
 App.MonitorChildProcessWaitMs=1000
 App.MonitorChildProcessName=
