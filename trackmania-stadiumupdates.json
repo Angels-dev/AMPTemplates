@@ -1,0 +1,12 @@
+[
+    {
+        "UpdateStageName": "Server Files Download",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "http://files.v04.maniaplanet.com/server/ManiaplanetServer_Latest.zip",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": true,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

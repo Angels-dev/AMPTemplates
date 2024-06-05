@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Config file",
+        "Category": "Server Settings",
+        "Description": "Use a configuration file including all the options wanted",
+        "Keywords": "config,file",
+        "FieldName": "DedicatedConfigFile",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "DedicatedConfigFile",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "dedicated_cfg.txt",
+        "Placeholder": "dedicated_cfg.txt",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Match file",
+        "Category": "Server Settings",
+        "Description": "A file including the options such as the gamemode, time limit...",
+        "Keywords": "match,file",
+        "FieldName": "MatchSettingsFile",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "MatchSettingsFile",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "matchsettings.txt",
+        "Placeholder": "matchsettings.txt",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    }
+]

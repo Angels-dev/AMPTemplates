@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "UserData/Config/dedicated_cfg.txt",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "UserData/Maps/MatchSettings/matchsettings.txt",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]
