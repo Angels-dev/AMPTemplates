@@ -8,5 +8,15 @@
         "OverwriteExistingFiles": true,
         "DeleteAfterExtract": true,
         "OneShot": false
+    },
+    {
+        "UpdateStageName": "Mark as executable",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "SetExecutableFlag",
+        "UpdateSourceArgs": "ManiaPlanetServer",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
     }
 ]
