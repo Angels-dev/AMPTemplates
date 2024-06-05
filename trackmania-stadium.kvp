@@ -73,10 +73,10 @@ Meta.MetaConfigManifest=trackmania-stadiummetaconfig.json
 Meta.ConfigRoot=trackmania-stadium.kvp
 App.RootDir=./trackmania-stadium/
 Meta.DisplayImageSource=url:https://avatars.githubusercontent.com/u/3098525?s=280&v=4
-App.BaseDirectory=./trackmania-stadium/serverfiles/
-App.WorkingDir=serverfiles
-App.ExecutableWin=serverfiles\ManiaPlanetServer.exe
-App.ExecutableLinux=serverfiles/ManiaPlanetServer
+App.BaseDirectory=./trackmania-stadium/
+App.WorkingDir=./
+App.ExecutableWin=\ManiaPlanetServer.exe
+App.ExecutableLinux=ManiaPlanetServer
 App.LinuxCommandLineArgs=
 App.Ports=@IncludeJson[trackmania-stadiumports.json]
 App.UpdateSources=@IncludeJson[trackmania-stadiumupdates.json]
