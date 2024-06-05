@@ -15,7 +15,7 @@ App.AdminMethod=PinballWizard
 App.HasReadableConsole=true
 App.HasWritableConsole=false
 App.DisplayName=TrackMania² Stadium
-App.CommandLineArgs=/nodaemon /dedicated_cfg={{$DedicatedConfigFile}} /game_settings=MatchSettings/{{$MatchSettingsFile}}
+App.CommandLineArgs=/nodaemon
 App.WindowsCommandLineArgs=
 App.CommandLineParameterFormat=/{0}={1}
 App.CommandLineParameterDelimiter= 
